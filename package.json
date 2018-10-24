@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/esjuanma/nodetests#readme",
   "dependencies": {
-    "formidable": "^1.2.1"
+    "formidable": "^1.2.1",
+    "mongodb": "^3.1.8",
+    "nodemailer": "^4.6.8"
   }
 }
