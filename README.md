@@ -37,16 +37,16 @@ Shapes come with several methods:
 ### Examples
 
 [1] Button
-[![N|Solid](http://localhost/button.png)](Shape)
+[![N|Solid](https://esjuanma.github.io/nodetests/images/button.png)](Button)
 
 [2] Circle
-[![N|Solid](http://localhost/circle.png)](Shape)
+[![N|Solid](https://esjuanma.github.io/nodetests/images/circle.png)](Circle)
 
 [3] Textbox
-[![N|Solid](http://localhost/textbox.png)](Shape)
+[![N|Solid](https://esjuanma.github.io/nodetests/images/textbox.png)](Textbox)
 
 [4] Menu
-[![N|Solid](http://localhost/menu.png)](Shape)
+[![N|Solid](https://esjuanma.github.io/nodetests/images/menu.png)](Menu)
 
 [5] Window
-[![N|Solid](http://localhost/window.png)](Shape)
+[![N|Solid](https://esjuanma.github.io/nodetests/images/window.png)](Window)
