@@ -19,6 +19,7 @@
   "homepage": "https://github.com/esjuanma/nodetests#readme",
   "dependencies": {
     "formidable": "^1.2.1",
+    "md-to-pdf": "^2.4.2",
     "mongodb": "^3.1.8",
     "nodemailer": "^4.6.8"
   }
